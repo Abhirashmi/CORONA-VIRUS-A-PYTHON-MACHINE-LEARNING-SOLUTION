@@ -14,3 +14,5 @@ Body Pain-0/1 Binary
 Age-Discrete
 Runny Nose
 Breathing Problem- Categorical: 0/1/-1
+
+and using bootstap and html for UI
